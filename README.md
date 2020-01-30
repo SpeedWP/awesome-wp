@@ -37,7 +37,7 @@ Awesome "AwesomeWP-Lists"!
 ## Code Snippets
 - [Code Snippets for WordPress and WooCommerce speed up, which can be imported into the plugin.](https://github.com/lukecav/code-snippets-wp-speed-up)
 - [Collection of mostly WordPress Code Snippets.](https://github.com/senlin/Code-Snippets)
-- [Awesome](https://github.com/lukecav/code-snippets-wp-speed-up)
+- [Tools 🧰 for developing and running WordPress websites](https://github.com/szepeviktor/wordpress-plugin-construction)
 - [Awesome]()
 - [Awesome]()
 
