@@ -1,4 +1,7 @@
-# awesome-wp
+# AwesomeWP
+
+Awesome "AwesomeWP-Lists"!
+
 
 ## Awesome List
 
