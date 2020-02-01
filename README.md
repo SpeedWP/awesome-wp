@@ -1,10 +1,8 @@
-# AwesomeWP
+# Awesome "AwesomeWP List's"
 
-Awesome "AwesomeWP-Lists"!
-
+Awesom
 
 ## Awesome List
-
 - [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up)
 - [Awesome E-commerce Stack](https://github.com/nparsons08/awesome-ecommerce-stack)
 - [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
