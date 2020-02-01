@@ -7,7 +7,7 @@ Awesome "AwesomeWP-Lists"!
 
 - [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up)
 - [Awesome E-commerce Stack](https://github.com/nparsons08/awesome-ecommerce-stack)
-- [Awesome]()
+- [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools)
 - [Awesome]()
 - [Awesome]()
 - [Awesome]()
@@ -19,6 +19,7 @@ Awesome "AwesomeWP-Lists"!
 - [Self-Hosted-WordPress-Plugin-repository](https://github.com/omarabid/Self-Hosted-WordPress-Plugin-repository)
 - [GitHub Updater](https://github.com/afragen/github-updater/releases)
   - [Advanced Nginx config editor for optimization purposes](https://github.com/SpeedWP/wordpress-nginx-config-editor)
+- [WordPress Core](https://github.com/PageSpeedPlus/wp-code-snippets/wiki/WordPress-Core)
 
 
 ## WP-CLI
