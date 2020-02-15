@@ -1,6 +1,6 @@
 # Awesome "AwesomeWP List's"
 
-Awesom
+- [BlogWiki](https://github.com/SpeedWP/awesome-wp/wiki/Blog-Wiki)
 
 ## Awesome List
 - [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up)
